@@ -1849,7 +1849,7 @@ section {
   background: none;
   font-size: 16px;
   padding: 0 20px 2px 20px;
-  background: #2487ce;
+  background: #f16e16;
   color: #fff;
   transition: 0.3s;
   border-radius: 0 5px 5px 0;
@@ -1857,7 +1857,7 @@ section {
 }
 
 #footer .footer-newsletter form input[type=submit]:hover {
-  background: #3194db;
+  background: #fdad19;
 }
 
 #footer .credits {
